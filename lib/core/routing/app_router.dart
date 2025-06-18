@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:nawel/core/routing/routes.dart';
 import 'package:nawel/features/auth/login/ui/login_screen.dart';
 
-import '../../features/auth/sign_up/sign_up_screen.dart';
+import '../../features/auth/sign_up/ui/sign_up_screen.dart';
 import '../../features/onboarding/ui/onboarding_screen.dart';
 
 class AppRouter {
