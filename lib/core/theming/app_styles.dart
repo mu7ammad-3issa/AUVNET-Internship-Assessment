@@ -20,4 +20,20 @@ abstract class AppStyles {
     fontWeight: FontWeightHelper.medium,
     color: Colors.white,
   );
+  static TextStyle mulishLight14Grey = GoogleFonts.mulish(
+    fontSize: 14.sp,
+    fontWeight: FontWeightHelper.light,
+    color: Colors.black.withOpacity(0.5),
+  );
+
+  static TextStyle dmSansMedium14White = GoogleFonts.dmSans(
+    fontSize: 14.sp,
+    fontWeight: FontWeightHelper.medium,
+    color: Colors.white,
+  );
+  static TextStyle dmSansBold14Blue = GoogleFonts.dmSans(
+    fontSize: 14.sp,
+    fontWeight: FontWeightHelper.bold,
+    color: ColorsManager.facebookBlue,
+  );
 }
