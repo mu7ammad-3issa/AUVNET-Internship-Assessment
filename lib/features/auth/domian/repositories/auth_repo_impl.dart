@@ -1,8 +1,10 @@
+// lib/features/auth/domian/repositories/auth_repo_impl.dart
+
 import 'package:nawel/features/auth/domian/entities/user.dart';
-
 import '../../data/data_source/auth_remote_data_source.dart';
+import 'auth_repo.dart';
 
-class AuthRepoImpl {
+class AuthRepoImpl implements AuthRepo {
   final AuthRemoteDataSource dataSource;
 
   AuthRepoImpl(this.dataSource);
