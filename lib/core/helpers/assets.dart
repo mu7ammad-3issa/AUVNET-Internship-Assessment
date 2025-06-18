@@ -2,6 +2,10 @@
 class Assets {
   Assets._();
   
+  static const String iconsEmail = "assets/icons/email.svg";
+
+  static const String iconsPassword = "assets/icons/password.svg";
+
   static const String imagesNawelLogo = "assets/images/nawel_logo.png";
 
   static const String imagesSplashScreen = "assets/images/splash_screen.png";
