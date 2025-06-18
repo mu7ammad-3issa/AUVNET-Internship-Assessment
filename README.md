@@ -1,7 +1,3 @@
-Of course. Here is a well-structured README.md file that you can use for your repository. It is based on the provided project files and the requirements outlined in the "Flutter internship Task.pdf" document.
-
-***
-
 # AUVNET Internship Assessment
 
 This project is a Flutter-based e-commerce application developed as part of the AUVNET Internship Assessment. [cite_start]The application is built following Clean Architecture principles and utilizes the BLoC pattern for state management to ensure a scalable, maintainable, and robust codebase. [cite: 1, 2]
