@@ -8,7 +8,7 @@ This project is a Flutter-based e-commerce application developed as part of the 
 * **Onboarding Experience**: A smooth and informative multi-page onboarding for new users.
 * **Dynamic Home Page**: A user-centric home screen displaying services, promotional banners, and popular restaurants.
 * **Intuitive Navigation**: A bottom navigation bar for easy access to different sections of the app.
-* **Responsive UI**: A clean and responsive user interface designed to work across various device sizes and orientations. [cite: 10]
+* **Responsive UI**: A clean and responsive user interface designed to work across various device sizes and orientations.
 
 ## Architecture
 
