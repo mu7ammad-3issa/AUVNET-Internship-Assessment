@@ -36,4 +36,31 @@ abstract class AppStyles {
     fontWeight: FontWeightHelper.bold,
     color: ColorsManager.facebookBlue,
   );
+
+  static TextStyle poppinsRegular12OuterSpace = GoogleFonts.poppins(
+    fontSize: 12.sp,
+    fontWeight: FontWeightHelper.regular,
+    color: ColorsManager.outerSpace,
+  );
+
+  static TextStyle dmSansBold12Black = GoogleFonts.dmSans(
+    fontSize: 12.sp,
+    fontWeight: FontWeightHelper.bold,
+    color: Colors.black,
+  );
+  static TextStyle rubikBold30Snow = GoogleFonts.rubik(
+    fontSize: 30.sp,
+    fontWeight: FontWeightHelper.bold,
+    color: ColorsManager.snow,
+  );
+  static TextStyle dmSansMedium14Black = GoogleFonts.dmSans(
+    fontSize: 14.sp,
+    fontWeight: FontWeightHelper.medium,
+    color: Colors.black,
+  );
+  static TextStyle dmSansMedium10Grey = GoogleFonts.dmSans(
+    fontSize: 10.sp,
+    fontWeight: FontWeightHelper.medium,
+    color: Colors.black.withOpacity(0.5),
+  );
 }
